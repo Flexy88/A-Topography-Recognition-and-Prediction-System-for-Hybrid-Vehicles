@@ -1,7 +1,7 @@
 # A-Topography-Recognition-and-Prediction-System-for-Hybrid-Vehicles
-## An embedded system-based and IoT & Data Science-supported navigation system.
+## An Embedded system-based and IoT_Data Science-supported navigation system.
 
-	### BACKGROUND INFO.
+	###BACKGROUND INFO.
  
  
 ####	HYBRID/SEMI-ELECTRIC VEHICLES: A case study of The Volvo Concept Truck.
