@@ -1,34 +1,23 @@
 # A-Topography-Recognition-and-Prediction-System-for-Hybrid-Vehicles
-## An Embedded system-based and IoT_Data Science-supported navigation system.
+#### An Embedded system-based and IoT_Data Science-supported navigation system.
 
 
 #            Under rigorous Development...
 
 
 ***
-### Watch out for exclusive tech. coming your way😎!
 ### DISCLAIMER: Kindly do not apply the concepts, formulaes and source code in this project in real life or academia settings. It may contain errors. Verification and validation are currently ongoing!!
-
-***
-
-```py
-    import time 
-
-    def development():
-        
-        while 1:
-            time.delay()
-            break # DISCLAIMER: Heads up, will break soon...
-
-    development()
-```
-***
+### Watch out for exclusive tech. coming your way😎!
 
 ***
 
    ### As an appetiser, I humbly offer you.....
 
 ***
+#### Raw Accelerometer Data.
+
+![Alt text](https://github.com/Flexy88/A-Topography-Recognition-and-Prediction-System-for-Hybrid-Vehicles/blob/main/raw%20accelerometer%20data.png)
+
 
 ### BACKGROUND INFO.
  
