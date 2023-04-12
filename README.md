@@ -70,7 +70,7 @@ The accelerometer measures the vehicle's angle with respect to a flat plane, to 
  
 The data is aggregated and sent to the cloud after some time for storage and future data mining ventures. 
  
- 
+ The idea in its entirety! ![Alt text]()
 
 
 
