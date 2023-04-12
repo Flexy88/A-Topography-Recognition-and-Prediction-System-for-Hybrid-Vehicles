@@ -1,7 +1,36 @@
 # A-Topography-Recognition-and-Prediction-System-for-Hybrid-Vehicles
 ## An Embedded system-based and IoT_Data Science-supported navigation system.
 
-	###BACKGROUND INFO.
+
+# Under rigorous Development...
+
+
+***
+### Watch out for exclusive tech. coming your way😎!
+### DISCLAIMER: Kindly do not apply the concepts, formulaes and source code in this project in real life or academia settings. It may contain errors. Verification and validation are currently ongoing!!
+
+***
+
+```py
+    import time 
+
+    def development():
+        
+        while 1:
+            time.delay()
+            break # DISCLAIMER: Heads up, will break soon...
+
+    development()
+```
+***
+
+***
+
+   ### As an appetiser, I humbly offer you.....
+
+***
+
+### BACKGROUND INFO.
  
  
 ####	HYBRID/SEMI-ELECTRIC VEHICLES: A case study of The Volvo Concept Truck.
